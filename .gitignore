@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+[Dd]ebug/
+[Rr]elease/
+.vs/
+*.bak
+_ReSharper*/
+
+
+/SassLibrary/Component1.razor.css
